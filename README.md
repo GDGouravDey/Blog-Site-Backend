@@ -10,3 +10,4 @@ and The Blog routes are on http://localhost:5000/api/blog/
 ## You can run the server by either running App.js
 ### OR
 ## Moving to backend folder and running the command 'npm start'
+Note:- You can find the paths for other operations in the 'user-routes.js' and 'blog-routes.js' in the 'routes' folder.
